@@ -38,6 +38,29 @@
             }
         }
         mysqli_close($con);
-    
+        ?>
+        <form action="registro11-github.php" method="post" enctype="multipart/form-data">
+            <div class="mb-3">
+                <label class="form-label">Autor</label>
+                <input type="text" name="autor" class="form-control" required>
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Titulo</label>
+                <input type="text" name="titulo" class="form-control" required>
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Fecha de publicacion</label>
+                <input type="date" name="fecha" class="form-control" required>
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Portada</label>
+                <input type="file" name="portada" class="form-control" required>
+            </div>
+            <input type="submit" name="registrar" value="Registrar libro" class="btn btn-primary">
+        </form>
+        <br>
+        <a href="index11-github.php" class="btn btn-primary">Regresar al inicio</a>
+    </div>
+
 </body>
 </html>
