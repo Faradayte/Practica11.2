@@ -1,0 +1,4 @@
+Habia hecho antes de hacerlo en orden lo del GitHub, por ende no tenia commits, hice un "Mockup" de masomenos como tendría que haberle hecho según esto para que queden registrados
+La próxima practica me asegurare de guardar los commits como se debe (esto también para explicar porque hay poco tiempo de diferencia entre cada actualización)
+
+https://github.com/Faradayte/Practica11.2/tree/c52002fdf423d219c2f86c7d91f868cb83eb0f7c/practica11
